@@ -40,3 +40,9 @@ li{
     padding: 14px 16px;
     font-size: 17px;
 }
+
+#icon{
+    padding: 6px;
+    margin: auto;
+    top: 5px;
+}
