@@ -4,6 +4,39 @@ body{
 
 .center{
     display: block;
+    align-self: center;
     margin-left: auto;
     margin-right: auto;
+}
+
+#input{
+    display: block;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+#buttons{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+li{
+    display: inline;
+    align-self: right;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
 }
